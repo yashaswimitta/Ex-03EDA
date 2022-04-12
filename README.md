@@ -105,3 +105,5 @@ df.corr()
 ```
 
 # OUPUT
+![image](https://user-images.githubusercontent.com/94619247/162871882-0084a345-3132-40c9-a353-9c71bc2fb29d.png)
+
